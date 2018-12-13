@@ -17,4 +17,4 @@ application/logs/*
 /vendor/
 
 upload/*
-application/config/*
+/application/config/*
